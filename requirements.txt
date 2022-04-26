@@ -1,0 +1,8 @@
+openai==0.18.1
+pandas
+plotly
+matplotlib
+bokeh
+leafmap
+streamlit_bokeh_events
+
