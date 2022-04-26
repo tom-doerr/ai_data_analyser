@@ -1,4 +1,4 @@
-<img src="res/logo.jpeg" width="300" height="300">
+<img src="/res/logo.jpeg" width="300" height="300">
 
 
 
