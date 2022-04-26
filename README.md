@@ -1,6 +1,3 @@
-[Live Website](https://share.streamlit.io/tom-doerr/fairmer_streamlit/main/streamlit_main.py)
-
-logo:
 <img src="res/logo.jpeg" width="300" height="300">
 
 
