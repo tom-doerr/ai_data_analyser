@@ -1,8 +1,9 @@
-<img src="res/fd430998eaeedbc142e523cb87c417c4bb2cbf2b04eea9cf66f9c553.jpeg" width="100" height="100">
+
+<p align="right">
+    <img src="res/fd430998eaeedbc142e523cb87c417c4bb2cbf2b04eea9cf66f9c553.jpeg" width="100" height="100">
+</p>
 
 
-
-## With nvidia-docker (not safe)
 
 1. To run the streamlit app locally, you need to add your OpenAI API key in 
 `.streamlit/secrets.toml`.
