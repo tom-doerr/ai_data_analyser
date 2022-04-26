@@ -1,4 +1,4 @@
-<img src="/res/logo.jpeg" width="300" height="300">
+<img src="res/fd430998eaeedbc142e523cb87c417c4bb2cbf2b04eea9cf66f9c553.jpeg" width="300" height="300">
 
 
 
