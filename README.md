@@ -21,10 +21,9 @@
             alt="License"
     /><br />
     <a href="https://github.com/tom-doerr/ai_data_analyser/commits/master"
-		><img
-			src="https://img.shields.io/github/last-commit/tom-doerr/ai_data_analyser/master?colorA=2c2837&colorB=ddb6f2&style=for-the-badge&logo=starship style=flat-square"
-
-			alt="Latest commit"
+        ><img
+            src="https://img.shields.io/github/last-commit/tom-doerr/ai_data_analyser/master?colorA=2c2837&colorB=ddb6f2&style=for-the-badge&logo=starship style=flat-square"
+            alt="Latest commit"
     /></a>
     <a href="https://github.com/tom-doerr/fix"
         ><img
@@ -34,11 +33,6 @@
 
    <img src="https://badges.pufler.dev/visits/tom-doerr/fix?style=for-the-badge&color=96CDFB&logoColor=white&labelColor=302D41"/>
 
-
-</p>
-<p align="right">
-    <img src="res/fd430998eaeedbc142e523cb87c417c4bb2cbf2b04eea9cf66f9c553.jpeg" width="100" height="100">
-</p>
 
 
 1. To run the streamlit app locally, you need to add your OpenAI API key in 
