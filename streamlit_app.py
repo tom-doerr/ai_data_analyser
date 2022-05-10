@@ -41,7 +41,7 @@ if True:
 
 st.sidebar.title("Options")
 num_successes_to_generate = st.sidebar.slider(
-    "Number of Successes to Generate", 1, 100, 10
+    "Number of Successes to Generate", 1, 500, 100
 )
 show_prompt_sent_to_codex = st.sidebar.checkbox(
     "Show prompt sent to codex", value=False
